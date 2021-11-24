@@ -1,1 +1,0 @@
-# A simple site containing my basic info and acting as my resume.
